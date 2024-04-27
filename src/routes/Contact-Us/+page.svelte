@@ -9,4 +9,5 @@
         <p><em>Email:</em> sammic297@gmail.com</p>
         <p><em>Phone:</em> (+234) 8130967626</p>
     </center>
+    <center><a href="../">Go back</a></center>
 </div>

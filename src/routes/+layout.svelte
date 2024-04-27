@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://odey.micalabar.com/" target="_blank">Odey.dev</a> to learn Odey</p>
+		<p>visit <a href="Contact-Us/">Odey.dev</a> to learn Odey</p>
 	</footer>
 </div>
 
